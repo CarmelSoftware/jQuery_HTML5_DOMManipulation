@@ -12,8 +12,9 @@ jQuery scripts performing HTML5 DOM manipulation
 
 ### CREATING NEW DOM ELEMENTS ON CLICK :
 
+ <img border="0" height="640" src="http://4.bp.blogspot.com/-eG7oeacu7vc/VlxHdtPbG9I/AAAAAAAAL1Q/WTKUuumhlCk/s640/2.png" width="542" />
  
-<img border="0" height="550" src="http://3.bp.blogspot.com/-j2vTbgQXeWk/VlxH3HyK3DI/AAAAAAAAL1c/RnUhiNYKJf0/s640/4.png" width="640" />
+
 
 ### USING ANIMATIONS TO HIDE/SHOW CONTENT :
 
@@ -22,12 +23,13 @@ jQuery scripts performing HTML5 DOM manipulation
 
 ### ADDING TEXT ON-THE-FLY :
 
-<img border="0" height="640" src="http://4.bp.blogspot.com/-eG7oeacu7vc/VlxHdtPbG9I/AAAAAAAAL1Q/WTKUuumhlCk/s640/2.png" width="542" />
- 
+
  
 <img border="0" height="640" src="http://4.bp.blogspot.com/-QnPhtAdt-Cg/VlxHdl1eP6I/AAAAAAAAL1Y/aV3PVPpNlUo/s640/3.png" width="552" />
 
+### SCRIPTS :
 
+<img border="0" height="550" src="http://3.bp.blogspot.com/-j2vTbgQXeWk/VlxH3HyK3DI/AAAAAAAAL1c/RnUhiNYKJf0/s640/4.png" width="640" />
 
 <div style="direction: rtl;">
 פיתוח: כרמל שוורצמן</div>
@@ -35,22 +37,6 @@ jQuery scripts performing HTML5 DOM manipulation
 </a>
 
 ###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="306" src="http://1.bp.blogspot.com/-2E_py-1hPDc/VkmHcgSHFYI/AAAAAAAALx0/DoxaDO-qlxs/s640/7.png" width="570" />
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="130" src="http://2.bp.blogspot.com/-IfN8UpmUJW4/VkmHdFI_DhI/AAAAAAAALx8/wHtzimEi9vs/s640/8.png" width="570" />
-
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="204" src="http://1.bp.blogspot.com/-_UTq74rKiaM/VkmHZ2RXuzI/AAAAAAAALyE/Y8QuXk-Dx4A/s640/11.png" width="570" />
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="174" src="http://1.bp.blogspot.com/-0jJoMkMUr0s/VkmHaQ8l_YI/AAAAAAAALyU/wEhRkTl6tX4/s640/13.png" width="570" />
-
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="184" src="http://4.bp.blogspot.com/-2U6hmgOn8UQ/VkmHahHzRCI/AAAAAAAALws/4uZSi2gwwio/s640/15.png" width="570" />
-
-<img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="168" src="http://2.bp.blogspot.com/-4rdA3cefYGc/VkmHbFHqx2I/AAAAAAAALw8/-UmmXg8k4PA/s640/17.png" width="570" />
-
-
 
 
 <div style="direction: rtl;">
