@@ -12,20 +12,20 @@ jQuery scripts performing HTML5 DOM manipulation
 
 ### CREATING NEW DOM ELEMENTS ON CLICK :
 
- <img border="0" height="275" src="http://3.bp.blogspot.com/-j2vTbgQXeWk/VlxH3HyK3DI/AAAAAAAAL1c/RnUhiNYKJf0/s320/4.png" width="320" />
-
+ 
+<img border="0" height="550" src="http://3.bp.blogspot.com/-j2vTbgQXeWk/VlxH3HyK3DI/AAAAAAAAL1c/RnUhiNYKJf0/s640/4.png" width="640" />
 
 ### USING ANIMATIONS TO HIDE/SHOW CONTENT :
 
- <img border="0" height="320" src="http://2.bp.blogspot.com/-FbrD-pdRJFc/VlxHdvSurmI/AAAAAAAAL1U/x4zg91S77Qg/s320/1.png" width="287" />
+ <img border="0" height="640" src="http://2.bp.blogspot.com/-FbrD-pdRJFc/VlxHdvSurmI/AAAAAAAAL1U/x4zg91S77Qg/s640/1.png" width="574" />
 
 
 ### ADDING TEXT ON-THE-FLY :
 
- <img border="0" height="320" src="http://4.bp.blogspot.com/-eG7oeacu7vc/VlxHdtPbG9I/AAAAAAAAL1Q/WTKUuumhlCk/s320/2.png" width="271" />
+<img border="0" height="640" src="http://4.bp.blogspot.com/-eG7oeacu7vc/VlxHdtPbG9I/AAAAAAAAL1Q/WTKUuumhlCk/s640/2.png" width="542" />
  
  
- <img border="0" height="320" src="http://4.bp.blogspot.com/-QnPhtAdt-Cg/VlxHdl1eP6I/AAAAAAAAL1Y/aV3PVPpNlUo/s320/3.png" width="276" /> 
+<img border="0" height="640" src="http://4.bp.blogspot.com/-QnPhtAdt-Cg/VlxHdl1eP6I/AAAAAAAAL1Y/aV3PVPpNlUo/s640/3.png" width="552" />
 
 
 
