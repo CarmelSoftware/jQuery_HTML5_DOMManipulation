@@ -39,12 +39,6 @@ jQuery scripts performing HTML5 DOM manipulation
 ###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
 
 
-<div style="direction: rtl;">
-פיתוח: כרמל שוורצמן</div>
-
- 
-
-###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
 
 
 
