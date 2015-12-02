@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Content/JQUERY_TESTER.css" rel="stylesheet" />
+    <script src="Scripts/jquery.js"></script>
+    <script src="Scripts/Carmel.js"></script>
+
+</head>
+<body>
+
+    <div id="custom"></div>
+    <h2>...   Add a new Button to the DOM</h2>
+
+
+    <dl>
+        <dt>Lorem ipsum dolor sit amet</dt>
+        <dd>Integer vestibulum, tortor quis blandit lobortis, velit lacus egestas nisl, in maximus sem nisi at nulla. Quisque pulvinar vehicula ligula eget ultricies. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris a diam eros.</dd>
+        <dt>Quisque volutpat mi sed urna scelerisque</dt>
+        <dd>Nam efficitur ultricies porta. Pellentesque ultricies, odio sollicitudin commodo rhoncus, magna nisl malesuada arcu, ac finibus libero lectus eget felis. Nullam sit amet leo nulla. Cras nulla arcu, consequat in massa eu, blandit gravida enim. Suspendisse ac purus at neque elementum scelerisque ut eget dui. Praesent pulvinar lectus et urna blandit rutrum. Aliquam erat volutpat.</dd>
+        <dt>Sed at lacinia purus</dt>
+        <dd>Vivamus eget nibh gravida mi volutpat posuere.</dd>
+        <dt>Morbi eget felis nec arcu rutrum bibendum</dt>
+        <dd>Nulla facilisi. Cras eleifend lobortis tellus, eu hendrerit sapien porttitor a.</dd>
+        <dt>Suspendisse mauris nunc</dt>
+        <dd>tempor et congue eget, malesuada non dolor</dd>
+        <dt>Morbi non semper libero</dt>
+        <dd>odio sollicitudin commodo rhoncus</dd>
+        <dt>Phasellus a mauris quis eros</dt>
+        <dd>tincidunt gravida a ut enim</dd>
+        <dt>Nullam ac rutrum quam</dt>
+        <dd>vitae lacinia mi</dd>
+        <dt>Pellentesque habitant morbi tristique</dt>
+        <dd>Tsenectus et netus et malesuada fames ac turpis egestas</dd>
+
+
+        <dt>
+            <h3>HTML5 DOM manipulation with jQuery</h3>
+        </dt>
+        <dd>
+            <article>
+
+                <p>
+                    Integer vestibulum, tortor quis blandit lobortis, velit lacus egestas nisl, in maximus sem nisi at nulla. Quisque pulvinar vehicula ligula eget ultricies. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris a diam eros. Etiam suscipit sed tortor vitae eleifend. In in consequat tortor. Vivamus tempor a leo quis luctus. Nulla facilisi. Vivamus eget nibh gravida mi volutpat posuere. Aliquam eu consequat quam. Donec suscipit bibendum volutpat. Nam consectetur finibus libero in tristique. Nulla facilisi. Cras eleifend lobortis tellus, eu hendrerit sapien porttitor a.
+
+Nam efficitur ultricies porta. Pellentesque ultricies, odio sollicitudin commodo rhoncus, magna nisl malesuada arcu, ac finibus libero lectus eget felis. Nullam sit amet leo nulla. Cras nulla arcu, consequat in massa eu, blandit gravida enim. Suspendisse ac purus at neque elementum scelerisque ut eget dui. Praesent pulvinar lectus et urna blandit rutrum. Aliquam erat volutpat.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat mi sed urna scelerisque, sit amet molestie nulla scelerisque. Sed at lacinia purus. Morbi eget felis nec arcu rutrum bibendum. Suspendisse mauris nunc, tempor et congue eget, malesuada non dolor. Morbi non semper libero. Phasellus a mauris quis eros tincidunt gravida a ut enim. Nullam ac rutrum quam, vitae lacinia mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi commodo sed libero eu blandit. Proin in ullamcorper justo. Nullam egestas nec tortor id molestie. Suspendisse nec pulvinar elit. Praesent ac facilisis metus. Quisque condimentum mi et nisl rutrum venenatis.
+
+Aliquam tincidunt mi ut ex pulvinar ultrices. Fusce vel dolor a mauris posuere pretium. Cras quis risus nibh. Proin auctor dolor a elit bibendum, vitae suscipit ante laoreet. Nunc non enim sed sapien dapibus luctus. Proin cursus ornare risus in luctus. Integer molestie nunc vitae magna varius aliquam. Nunc luctus enim vitae velit venenatis suscipit quis a augue. Proin rutrum justo non neque pellentesque, a fringilla erat lobortis. Vestibulum sollicitudin dui sit amet tellus tempor, ac pharetra turpis gravida. Aenean maximus maximus interdum. Suspendisse dapibus elit in ex sodales elementum. In vel orci vel est gravida egestas id nec sapien. Donec in augue viverra, aliquam justo eget, fermentum eros. Cras vestibulum nulla sed semper euismod.
+
+
+
+                </p>
+                <p>Phasellus nec felis augue. Nam sollicitudin, mauris eget lacinia facilisis, felis neque porta neque, tristique consequat augue mauris consectetur turpis. Nulla facilisi. Cras mattis nibh ut nisi bibendum mollis. Vestibulum eget scelerisque ipsum. Nunc odio dolor, bibendum et justo sed, bibendum lobortis risus. Cras nec elit ac sapien aliquam eleifend. Mauris iaculis suscipit laoreet. Cras ut finibus sem. Suspendisse potenti. Donec blandit lacus tellus, nec rutrum elit venenatis quis. In hac habitasse platea dictumst.</p>
+            </article>
+        </dd>
+    </dl>
+</body>
+<script>
+    _(function (_)
+    {
+        _("dd").attr("hidden", "hidden");
+        _("dl").on("mouseenter", "dt", function ()
+        {
+            var _this = _(this);
+            _this
+                .siblings("dd")
+                .slideUp(1000)
+                .end()
+                .next("dd")
+                .slideDown(1000);
+
+        });
+    });
+</script>
+
+<script>
+    _(function (_)
+    {
+        _("h2").bind("click", function ()
+        {
+            var _this = _(this);
+            _this.clone(true).appendTo(_("#custom"));
+
+        });
+    });
+
+</script>
+<script>
+    _(function (_)
+    {
+        var _obj = _("p:nth-child(2)"); console.log(_obj);
+        var _obj1 = _("p").eq(1); console.log(_obj1);
+
+        var newElement = _("<h2/>", { text: "Nuevo texto", class: "myclass" });
+
+        _obj1.each(function ()
+        {
+            var _quote = _("<blockquote/>", { text: "This is a quote from Cicero's book , circa 45 BC.", class: "quote" });
+            return _(this).prepend(_quote);
+        }
+        );
+    });
+    
+</script>
+</html>
+
