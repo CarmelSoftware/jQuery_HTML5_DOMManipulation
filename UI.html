@@ -90,7 +90,20 @@ Aliquam tincidunt mi ut ex pulvinar ultrices. Fusce vel dolor a mauris posuere p
 </script>
 <script>
   
-  
+  _(function (_)
+    {
+        var _obj = _("p:nth-child(2)"); console.log(_obj);
+        var _obj1 = _("p").eq(1); console.log(_obj1);
+
+        var newElement = _("<h2/>", { text: "Nuevo texto", class: "myclass" });
+
+        _obj1.each(function ()
+        {
+            var _quote = _("<blockquote/>", { text: "This is a quote from Cicero's book , circa 45 BC.", class: "quote" });
+            return _(this).prepend(_quote);
+        }
+        );
+    });
   
   
   
