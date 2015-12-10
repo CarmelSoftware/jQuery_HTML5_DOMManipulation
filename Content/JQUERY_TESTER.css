@@ -3,3 +3,18 @@ body {
     width: 500px;
      
 }
+dd {
+    
+}
+
+dt {
+    margin:5px;
+    padding:5px;
+    cursor:pointer;
+    width: 500px;
+    background: #e3e3e3;
+    border-bottom:solid 1px #c5c5c5;
+    border-top: #fff;
+    font: 900 14px Verdana;
+    line-height: 50px;
+}
