@@ -18,3 +18,13 @@ dt {
     font: 900 14px Verdana;
     line-height: 50px;
 }
+article {
+    margin:5px;
+    cursor:pointer;
+    width: 500px;
+    background: #fff;
+    border-bottom:solid 1px #c5c5c5;
+    border-top: #fff;
+    font: 900 14px Verdana;
+    
+}
