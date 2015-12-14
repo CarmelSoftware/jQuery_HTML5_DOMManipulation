@@ -28,3 +28,12 @@ article {
     font: 900 14px Verdana;
     
 }
+h2 {
+background:#e3e3e3;
+margin:5px;
+border-bottom:1px solid #c5c5c5;
+border-top:1px solid #fff;
+font:900 14px Tahoma;
+line-height:50px;
+cursor:pointer;
+}
