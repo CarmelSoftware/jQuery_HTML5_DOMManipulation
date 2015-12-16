@@ -18,6 +18,7 @@ dt {
     font: 900 14px Verdana;
     line-height: 50px;
 }
+
 article {
     margin:5px;
     cursor:pointer;
@@ -28,6 +29,7 @@ article {
     font: 900 14px Verdana;
     
 }
+
 h2 {
 background:#e3e3e3;
 margin:5px;
