@@ -3,9 +3,6 @@ body {
     width: 500px;
      
 }
-dd {
-    
-}
 
 dt {
     margin:5px;
@@ -18,7 +15,6 @@ dt {
     font: 900 14px Verdana;
     line-height: 50px;
 }
-
 article {
     margin:5px;
     cursor:pointer;
@@ -29,7 +25,6 @@ article {
     font: 900 14px Verdana;
     
 }
-
 h2 {
 background:#e3e3e3;
 margin:5px;
@@ -46,7 +41,7 @@ cursor:pointer;
     float:right;
     width: 300px;
     margin: 10px 10px 10px 10px auto;
-padding: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     background:linear-gradient(#c5c5c5,#e3e3e3);
     height:50px;
 }
