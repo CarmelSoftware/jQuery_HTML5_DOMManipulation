@@ -42,3 +42,11 @@ cursor:pointer;
 .myclass {
     background: linear-gradient(#c5c5c5 , #e3e3e3 );
 }
+.quote {
+    float:right;
+    width: 300px;
+    margin: 10px 10px 10px 10px auto;
+padding: 10px 10px 10px 10px;
+    background:linear-gradient(#c5c5c5,#e3e3e3);
+    height:50px;
+}
